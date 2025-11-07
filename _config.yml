@@ -1,6 +1,7 @@
-baseurl: '/'
+baseurl: '/jekyll-serif-theme'
 permalink: pretty
 title: 'Jekyll Serif'
+url: entfrem0.github.io
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
